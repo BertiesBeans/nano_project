@@ -1,0 +1,30 @@
+* {
+  font-family: sans-serif;
+  font-weight: lighter;
+}
+
+body {
+  background-color: #DFEAF1;
+}
+
+h1 {
+  text-align: center;
+  color: black;
+}
+
+.marquee {
+  background-color: #294860;
+  border-radius: 5px;
+  margin-bottom: 10px;
+}
+
+.table {
+  background-color: #294860;
+  border-radius: 5px;
+  padding: 1px;
+  margin: 3px;
+}
+
+a {
+  color: black;
+}
